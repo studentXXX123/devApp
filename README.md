@@ -1,24 +1,19 @@
-# Game Of Thrones API
+## DevOps - PGR301
 
-This is Game of Thrones API coded in Kotlin.
+## Exam Fall 2018
 
-## Technologies
+## Game of Thrones REST API
+  
+#### 
+This application is used in connection with this [Concourse-CI + Terraform](https://github.com/studentXXX123/devInfra) repository to set up infrastructure with Terraform and automate deploy to Heroku with Concourse CI
 
--   SpringBoot
--   Spring Security
--   CRUD Repository
--   H2 Database
+#### How to run
 
-## Run
+- See instructions on this repo to how set up infrastructure with Terraform and automate deploy with Concourse CI -> [Concourse-CI + Terraform](https://github.com/studentXXX123/devInfra)  
 
-You'll need:
-
--   [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
--   [Maven](https://maven.apache.org/)
-
-
-##### Clone repo or download zip and go to root folder
-
--   Open terminal
--   In foot folder run: `mvn clean install`
--   Start Spring application
+#### Tecnologies
+- [Metrics](https://metrics.dropwizard.io/4.0.0/)
+- SpringBoot  
+- CRUD Repository  
+- H2 Database
+- RestAssured
