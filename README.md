@@ -11,7 +11,7 @@ This application is used in connection with this [Concourse-CI + Terraform](http
 
 - See instructions on this repo to how set up infrastructure with Terraform and automate deploy with Concourse CI -> [Concourse-CI + Terraform](https://github.com/studentXXX123/devInfra)  
 
-#### Tecnologies
+#### Technologies
 - [Metrics](https://metrics.dropwizard.io/4.0.0/)
 - SpringBoot  
 - CRUD Repository  
